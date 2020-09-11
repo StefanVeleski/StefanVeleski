@@ -5,7 +5,7 @@ Hi👋, I'm Stefan, and this is where I'll be trying to document my programming 
 - 🤝 Open for collaboration! Mostly focused on late Victorian fiction at the moment, but interested in all media from video games to creepypasta.
 - 🌐 Visit my [website](https://stefanveleski.com) for my CV and background.
 - 🌱 Currently a bit of a newbie in programming, but trying to up my game.
-### Connect with me:
+Connect with me:
 
 [<img src="https://img.shields.io/badge/website-%2311B48A.svg?&style=for-the-badge&logo=googlescholar&logoColor=white"/>](https://stefanveleski.com)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/StefanVeleski)
