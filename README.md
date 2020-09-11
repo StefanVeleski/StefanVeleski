@@ -1,6 +1,6 @@
 
 
-### Hi👋, I'm Stefan, and this is where I'll be trying to document my programming projects, most of them dealing with cultural analytics, i.e. quantification, measurement, analysis, and visualization of cultural data. Primarily working in R.
+Hi👋, I'm Stefan, and this is where I'll be trying to document my programming projects, most of them dealing with cultural analytics, i.e. quantification, measurement, analysis, and visualization of cultural data. Primarily working in R.
 
 - 🤝 Open for collaboration! Mostly focused on late Victorian fiction at the moment, but interested in all media from video games to creepypasta.
 - 🌐 Visit my [website](https://stefanveleski.com) for my CV and background.
